@@ -1,0 +1,3 @@
+/Users/w/CLionProjects/BlueCatServer/CMakeFiles/rebuild_cache.dir
+/Users/w/CLionProjects/BlueCatServer/CMakeFiles/edit_cache.dir
+/Users/w/CLionProjects/BlueCatServer/CMakeFiles/BlueCatServer.dir
