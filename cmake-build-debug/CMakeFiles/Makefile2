@@ -74,12 +74,12 @@ clean: CMakeFiles/BlueCatServer.dir/clean
 CMakeFiles/BlueCatServer.dir/all:
 	$(MAKE) -f CMakeFiles/BlueCatServer.dir/build.make CMakeFiles/BlueCatServer.dir/depend
 	$(MAKE) -f CMakeFiles/BlueCatServer.dir/build.make CMakeFiles/BlueCatServer.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/w/CLionProjects/BlueCatServer/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5 "Built target BlueCatServer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/w/CLionProjects/BlueCatServer/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6 "Built target BlueCatServer"
 .PHONY : CMakeFiles/BlueCatServer.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/BlueCatServer.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/w/CLionProjects/BlueCatServer/cmake-build-debug/CMakeFiles 5
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/w/CLionProjects/BlueCatServer/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/BlueCatServer.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/w/CLionProjects/BlueCatServer/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/BlueCatServer.dir/rule

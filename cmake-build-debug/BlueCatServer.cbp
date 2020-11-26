@@ -46,7 +46,7 @@
 				<Compiler>
 					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
 					<Add directory="/usr/include"/>
 					<Add directory="/System/Library/Frameworks"/>
@@ -68,7 +68,7 @@
 				<Compiler>
 					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
 					<Add directory="/usr/include"/>
 					<Add directory="/System/Library/Frameworks"/>
@@ -86,6 +86,12 @@
 			<Option target="BlueCatServer"/>
 		</Unit>
 		<Unit filename="/Users/w/CLionProjects/BlueCatServer/Log/Log.h">
+			<Option target="BlueCatServer"/>
+		</Unit>
+		<Unit filename="/Users/w/CLionProjects/BlueCatServer/TCPServer/DealReq.cpp">
+			<Option target="BlueCatServer"/>
+		</Unit>
+		<Unit filename="/Users/w/CLionProjects/BlueCatServer/TCPServer/DealReq.h">
 			<Option target="BlueCatServer"/>
 		</Unit>
 		<Unit filename="/Users/w/CLionProjects/BlueCatServer/TCPServer/TestServer.cpp">

@@ -150,6 +150,33 @@ Log/Log.cpp.s:
 	$(MAKE) -f CMakeFiles/BlueCatServer.dir/build.make CMakeFiles/BlueCatServer.dir/Log/Log.cpp.s
 .PHONY : Log/Log.cpp.s
 
+TCPServer/DealReq.o: TCPServer/DealReq.cpp.o
+
+.PHONY : TCPServer/DealReq.o
+
+# target to build an object file
+TCPServer/DealReq.cpp.o:
+	$(MAKE) -f CMakeFiles/BlueCatServer.dir/build.make CMakeFiles/BlueCatServer.dir/TCPServer/DealReq.cpp.o
+.PHONY : TCPServer/DealReq.cpp.o
+
+TCPServer/DealReq.i: TCPServer/DealReq.cpp.i
+
+.PHONY : TCPServer/DealReq.i
+
+# target to preprocess a source file
+TCPServer/DealReq.cpp.i:
+	$(MAKE) -f CMakeFiles/BlueCatServer.dir/build.make CMakeFiles/BlueCatServer.dir/TCPServer/DealReq.cpp.i
+.PHONY : TCPServer/DealReq.cpp.i
+
+TCPServer/DealReq.s: TCPServer/DealReq.cpp.s
+
+.PHONY : TCPServer/DealReq.s
+
+# target to generate assembly for a file
+TCPServer/DealReq.cpp.s:
+	$(MAKE) -f CMakeFiles/BlueCatServer.dir/build.make CMakeFiles/BlueCatServer.dir/TCPServer/DealReq.cpp.s
+.PHONY : TCPServer/DealReq.cpp.s
+
 TCPServer/TestServer.o: TCPServer/TestServer.cpp.o
 
 .PHONY : TCPServer/TestServer.o
@@ -243,6 +270,9 @@ help:
 	@echo "... Log/Log.o"
 	@echo "... Log/Log.i"
 	@echo "... Log/Log.s"
+	@echo "... TCPServer/DealReq.o"
+	@echo "... TCPServer/DealReq.i"
+	@echo "... TCPServer/DealReq.s"
 	@echo "... TCPServer/TestServer.o"
 	@echo "... TCPServer/TestServer.i"
 	@echo "... TCPServer/TestServer.s"

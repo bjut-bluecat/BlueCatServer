@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+/Users/w/CLionProjects/BlueCatServer/Log/Log.cpp
+Log.h
+/Users/w/CLionProjects/BlueCatServer/Log/Log.h
+
 /Users/w/CLionProjects/BlueCatServer/Log/Log.h
 string
 -
@@ -69,6 +73,10 @@ Log/Log.h
 /Users/w/CLionProjects/BlueCatServer/Log/Log.h
 TCPServer/TestServer.h
 /Users/w/CLionProjects/BlueCatServer/TCPServer/TestServer.h
+
+/Users/w/CLionProjects/BlueCatServer/model/model.cpp
+model.h
+/Users/w/CLionProjects/BlueCatServer/model/model.h
 
 /Users/w/CLionProjects/BlueCatServer/model/model.h
 
