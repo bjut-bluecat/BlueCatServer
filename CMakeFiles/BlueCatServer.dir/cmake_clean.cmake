@@ -4,6 +4,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/BlueCatServer.dir/Log/Log.cpp.o"
   "CMakeFiles/BlueCatServer.dir/TCPServer/DealReq.cpp.o"
   "CMakeFiles/BlueCatServer.dir/TCPServer/TestServer.cpp.o"
+  "CMakeFiles/BlueCatServer.dir/Tools/ThreadPool.cpp.o"
   "CMakeFiles/BlueCatServer.dir/main.cpp.o"
   "CMakeFiles/BlueCatServer.dir/model/model.cpp.o"
 )

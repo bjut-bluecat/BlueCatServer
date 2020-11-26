@@ -84,6 +84,12 @@
 		<Unit filename="/Users/w/CLionProjects/BlueCatServer/TCPServer/TestServer.h">
 			<Option target="BlueCatServer"/>
 		</Unit>
+		<Unit filename="/Users/w/CLionProjects/BlueCatServer/Tools/ThreadPool.cpp">
+			<Option target="BlueCatServer"/>
+		</Unit>
+		<Unit filename="/Users/w/CLionProjects/BlueCatServer/Tools/ThreadPool.h">
+			<Option target="BlueCatServer"/>
+		</Unit>
 		<Unit filename="/Users/w/CLionProjects/BlueCatServer/main.cpp">
 			<Option target="BlueCatServer"/>
 		</Unit>
